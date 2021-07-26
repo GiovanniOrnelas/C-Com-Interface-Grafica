@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Média De 4 Notas/1.0.0": {
+        "runtime": {
+          "Média De 4 Notas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Média De 4 Notas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

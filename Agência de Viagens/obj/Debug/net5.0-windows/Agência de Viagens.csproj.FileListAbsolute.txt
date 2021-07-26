@@ -1,0 +1,18 @@
+C:\Users\Giovanni\source\repos\Agência de Viagens\bin\Debug\net5.0-windows\Agência de Viagens.exe
+C:\Users\Giovanni\source\repos\Agência de Viagens\bin\Debug\net5.0-windows\Agência de Viagens.deps.json
+C:\Users\Giovanni\source\repos\Agência de Viagens\bin\Debug\net5.0-windows\Agência de Viagens.runtimeconfig.json
+C:\Users\Giovanni\source\repos\Agência de Viagens\bin\Debug\net5.0-windows\Agência de Viagens.runtimeconfig.dev.json
+C:\Users\Giovanni\source\repos\Agência de Viagens\bin\Debug\net5.0-windows\Agência de Viagens.dll
+C:\Users\Giovanni\source\repos\Agência de Viagens\bin\Debug\net5.0-windows\ref\Agência de Viagens.dll
+C:\Users\Giovanni\source\repos\Agência de Viagens\bin\Debug\net5.0-windows\Agência de Viagens.pdb
+C:\Users\Giovanni\source\repos\Agência de Viagens\obj\Debug\net5.0-windows\Agência de Viagens.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Agência de Viagens\obj\Debug\net5.0-windows\Agência_de_Viagens.Form1.resources
+C:\Users\Giovanni\source\repos\Agência de Viagens\obj\Debug\net5.0-windows\Agência de Viagens.csproj.GenerateResource.cache
+C:\Users\Giovanni\source\repos\Agência de Viagens\obj\Debug\net5.0-windows\Agência de Viagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\Agência de Viagens\obj\Debug\net5.0-windows\Agência de Viagens.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\Agência de Viagens\obj\Debug\net5.0-windows\Agência de Viagens.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\Agência de Viagens\obj\Debug\net5.0-windows\Agência de Viagens.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Agência de Viagens\obj\Debug\net5.0-windows\Agência de Viagens.dll
+C:\Users\Giovanni\source\repos\Agência de Viagens\obj\Debug\net5.0-windows\ref\Agência de Viagens.dll
+C:\Users\Giovanni\source\repos\Agência de Viagens\obj\Debug\net5.0-windows\Agência de Viagens.pdb
+C:\Users\Giovanni\source\repos\Agência de Viagens\obj\Debug\net5.0-windows\Agência de Viagens.genruntimeconfig.cache

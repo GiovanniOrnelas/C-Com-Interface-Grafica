@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visualiza Imagens", "Visualiza Imagens.csproj", "{B76FBECF-97C0-479E-B272-829E27E4C20E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B76FBECF-97C0-479E-B272-829E27E4C20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76FBECF-97C0-479E-B272-829E27E4C20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76FBECF-97C0-479E-B272-829E27E4C20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76FBECF-97C0-479E-B272-829E27E4C20E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8275D3AD-9C3E-4580-B02D-A951921EC102}
+	EndGlobalSection
+EndGlobal

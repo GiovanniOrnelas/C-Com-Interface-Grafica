@@ -1,0 +1,180 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Lista de Nomes/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Lista de Nomes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lista de Nomes.dll": {}
+        }
+      },
+      "MoviTeclas/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MoviTeclas.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoviTeclas.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Média De 4 Notas/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Média De 4 Notas.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Média De 4 Notas.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Relógio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Relógio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Relógio.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Visualiza Imagens/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Visualiza Imagens.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Visualiza Imagens.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Lista de Nomes/1.0.0": {
+      "type": "project",
+      "path": "../Lista de Nomes/Lista de Nomes/Lista de Nomes.csproj",
+      "msbuildProject": "../Lista de Nomes/Lista de Nomes/Lista de Nomes.csproj"
+    },
+    "MoviTeclas/1.0.0": {
+      "type": "project",
+      "path": "../MoviTeclas/MoviTeclas.csproj",
+      "msbuildProject": "../MoviTeclas/MoviTeclas.csproj"
+    },
+    "Média De 4 Notas/1.0.0": {
+      "type": "project",
+      "path": "../Média De 4 Notas/Média De 4 Notas.csproj",
+      "msbuildProject": "../Média De 4 Notas/Média De 4 Notas.csproj"
+    },
+    "Relógio/1.0.0": {
+      "type": "project",
+      "path": "../Relógio/Relógio.csproj",
+      "msbuildProject": "../Relógio/Relógio.csproj"
+    },
+    "Visualiza Imagens/1.0.0": {
+      "type": "project",
+      "path": "../Visualiza Imagens/Visualiza Imagens.csproj",
+      "msbuildProject": "../Visualiza Imagens/Visualiza Imagens.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Lista de Nomes >= 1.0.0",
+      "MoviTeclas >= 1.0.0",
+      "Média De 4 Notas >= 1.0.0",
+      "Relógio >= 1.0.0",
+      "Visualiza Imagens >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Giovanni\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Giovanni\\source\\repos\\Criação de Menus\\Criação de Menus.csproj",
+      "projectName": "Criação de Menus",
+      "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Criação de Menus\\Criação de Menus.csproj",
+      "packagesPath": "C:\\Users\\Giovanni\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Giovanni\\source\\repos\\Criação de Menus\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Giovanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Giovanni\\source\\repos\\Lista de Nomes\\Lista de Nomes\\Lista de Nomes.csproj": {
+              "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Lista de Nomes\\Lista de Nomes\\Lista de Nomes.csproj"
+            },
+            "C:\\Users\\Giovanni\\source\\repos\\MoviTeclas\\MoviTeclas.csproj": {
+              "projectPath": "C:\\Users\\Giovanni\\source\\repos\\MoviTeclas\\MoviTeclas.csproj"
+            },
+            "C:\\Users\\Giovanni\\source\\repos\\Média De 4 Notas\\Média De 4 Notas.csproj": {
+              "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Média De 4 Notas\\Média De 4 Notas.csproj"
+            },
+            "C:\\Users\\Giovanni\\source\\repos\\Relógio\\Relógio.csproj": {
+              "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Relógio\\Relógio.csproj"
+            },
+            "C:\\Users\\Giovanni\\source\\repos\\Visualiza Imagens\\Visualiza Imagens.csproj": {
+              "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Visualiza Imagens\\Visualiza Imagens.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

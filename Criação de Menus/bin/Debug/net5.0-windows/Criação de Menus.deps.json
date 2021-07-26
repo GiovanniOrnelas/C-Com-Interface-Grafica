@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Criação de Menus/1.0.0": {
+        "dependencies": {
+          "MoviTeclas": "1.0.0",
+          "Relógio": "1.0.0"
+        },
+        "runtime": {
+          "Criação de Menus.dll": {}
+        }
+      },
+      "Lista de Nomes/1.0.0": {
+        "runtime": {
+          "Lista de Nomes.exe": {}
+        }
+      },
+      "MoviTeclas/1.0.0": {
+        "runtime": {
+          "MoviTeclas.dll": {}
+        }
+      },
+      "Média De 4 Notas/1.0.0": {
+        "runtime": {
+          "Média De 4 Notas.dll": {}
+        }
+      },
+      "Relógio/1.0.0": {
+        "runtime": {
+          "Relógio.dll": {}
+        }
+      },
+      "Visualiza Imagens/1.0.0": {
+        "runtime": {
+          "Visualiza Imagens.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Criação de Menus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lista de Nomes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MoviTeclas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Média De 4 Notas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Relógio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Visualiza Imagens/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

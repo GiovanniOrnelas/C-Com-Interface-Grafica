@@ -1,0 +1,18 @@
+C:\Users\Giovanni\source\repos\Média De 4 Notas\bin\Debug\net5.0-windows\Média De 4 Notas.exe
+C:\Users\Giovanni\source\repos\Média De 4 Notas\bin\Debug\net5.0-windows\Média De 4 Notas.deps.json
+C:\Users\Giovanni\source\repos\Média De 4 Notas\bin\Debug\net5.0-windows\Média De 4 Notas.runtimeconfig.json
+C:\Users\Giovanni\source\repos\Média De 4 Notas\bin\Debug\net5.0-windows\Média De 4 Notas.runtimeconfig.dev.json
+C:\Users\Giovanni\source\repos\Média De 4 Notas\bin\Debug\net5.0-windows\Média De 4 Notas.dll
+C:\Users\Giovanni\source\repos\Média De 4 Notas\bin\Debug\net5.0-windows\ref\Média De 4 Notas.dll
+C:\Users\Giovanni\source\repos\Média De 4 Notas\bin\Debug\net5.0-windows\Média De 4 Notas.pdb
+C:\Users\Giovanni\source\repos\Média De 4 Notas\obj\Debug\net5.0-windows\Média_De_4_Notas.FrmCalculaMedia.resources
+C:\Users\Giovanni\source\repos\Média De 4 Notas\obj\Debug\net5.0-windows\Média De 4 Notas.csproj.GenerateResource.cache
+C:\Users\Giovanni\source\repos\Média De 4 Notas\obj\Debug\net5.0-windows\Média De 4 Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\Média De 4 Notas\obj\Debug\net5.0-windows\Média De 4 Notas.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\Média De 4 Notas\obj\Debug\net5.0-windows\Média De 4 Notas.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\Média De 4 Notas\obj\Debug\net5.0-windows\Média De 4 Notas.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Média De 4 Notas\obj\Debug\net5.0-windows\Média De 4 Notas.dll
+C:\Users\Giovanni\source\repos\Média De 4 Notas\obj\Debug\net5.0-windows\ref\Média De 4 Notas.dll
+C:\Users\Giovanni\source\repos\Média De 4 Notas\obj\Debug\net5.0-windows\Média De 4 Notas.pdb
+C:\Users\Giovanni\source\repos\Média De 4 Notas\obj\Debug\net5.0-windows\Média De 4 Notas.genruntimeconfig.cache
+C:\Users\Giovanni\source\repos\Média De 4 Notas\obj\Debug\net5.0-windows\Média De 4 Notas.csproj.AssemblyReference.cache

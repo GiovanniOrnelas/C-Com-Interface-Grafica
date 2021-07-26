@@ -1,0 +1,20 @@
+C:\Users\Giovanni\source\repos\Web Browser\obj\Debug\net5.0-windows\Web Browser.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Web Browser\obj\Debug\net5.0-windows\Web_Browser.FrmPaginaInicial.resources
+C:\Users\Giovanni\source\repos\Web Browser\obj\Debug\net5.0-windows\Web_Browser.frmPrincipal - Cópia.resources
+C:\Users\Giovanni\source\repos\Web Browser\obj\Debug\net5.0-windows\Web_Browser.frmPrincipal.resources
+C:\Users\Giovanni\source\repos\Web Browser\obj\Debug\net5.0-windows\Web Browser.csproj.GenerateResource.cache
+C:\Users\Giovanni\source\repos\Web Browser\obj\Debug\net5.0-windows\Web Browser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\Web Browser\obj\Debug\net5.0-windows\Web Browser.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\Web Browser\obj\Debug\net5.0-windows\Web Browser.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\Web Browser\obj\Debug\net5.0-windows\Web Browser.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Web Browser\bin\Debug\net5.0-windows\Web Browser.exe
+C:\Users\Giovanni\source\repos\Web Browser\bin\Debug\net5.0-windows\Web Browser.deps.json
+C:\Users\Giovanni\source\repos\Web Browser\bin\Debug\net5.0-windows\Web Browser.runtimeconfig.json
+C:\Users\Giovanni\source\repos\Web Browser\bin\Debug\net5.0-windows\Web Browser.runtimeconfig.dev.json
+C:\Users\Giovanni\source\repos\Web Browser\bin\Debug\net5.0-windows\Web Browser.dll
+C:\Users\Giovanni\source\repos\Web Browser\bin\Debug\net5.0-windows\ref\Web Browser.dll
+C:\Users\Giovanni\source\repos\Web Browser\bin\Debug\net5.0-windows\Web Browser.pdb
+C:\Users\Giovanni\source\repos\Web Browser\obj\Debug\net5.0-windows\Web Browser.dll
+C:\Users\Giovanni\source\repos\Web Browser\obj\Debug\net5.0-windows\ref\Web Browser.dll
+C:\Users\Giovanni\source\repos\Web Browser\obj\Debug\net5.0-windows\Web Browser.pdb
+C:\Users\Giovanni\source\repos\Web Browser\obj\Debug\net5.0-windows\Web Browser.genruntimeconfig.cache

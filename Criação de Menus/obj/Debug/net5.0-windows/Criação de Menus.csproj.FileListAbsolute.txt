@@ -1,0 +1,46 @@
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Criação de Menus.exe
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Criação de Menus.deps.json
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Criação de Menus.runtimeconfig.json
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Criação de Menus.runtimeconfig.dev.json
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Criação de Menus.dll
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\ref\Criação de Menus.dll
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Criação de Menus.pdb
+C:\Users\Giovanni\source\repos\Criação de Menus\obj\Debug\net5.0-windows\Criação de Menus.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Criação de Menus\obj\Debug\net5.0-windows\Criação_de_Menus.FrmPrincipal.resources
+C:\Users\Giovanni\source\repos\Criação de Menus\obj\Debug\net5.0-windows\Criação de Menus.csproj.GenerateResource.cache
+C:\Users\Giovanni\source\repos\Criação de Menus\obj\Debug\net5.0-windows\Criação de Menus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\Criação de Menus\obj\Debug\net5.0-windows\Criação de Menus.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\Criação de Menus\obj\Debug\net5.0-windows\Criação de Menus.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\Criação de Menus\obj\Debug\net5.0-windows\Criação de Menus.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Criação de Menus\obj\Debug\net5.0-windows\Criação de Menus.dll
+C:\Users\Giovanni\source\repos\Criação de Menus\obj\Debug\net5.0-windows\ref\Criação de Menus.dll
+C:\Users\Giovanni\source\repos\Criação de Menus\obj\Debug\net5.0-windows\Criação de Menus.pdb
+C:\Users\Giovanni\source\repos\Criação de Menus\obj\Debug\net5.0-windows\Criação de Menus.genruntimeconfig.cache
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\MoviTeclas.deps.json
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\MoviTeclas.runtimeconfig.json
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\MoviTeclas.runtimeconfig.dev.json
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\MoviTeclas.exe
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Média De 4 Notas.deps.json
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Média De 4 Notas.runtimeconfig.json
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Média De 4 Notas.runtimeconfig.dev.json
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Média De 4 Notas.exe
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Relógio.deps.json
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Relógio.runtimeconfig.json
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Relógio.runtimeconfig.dev.json
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Relógio.exe
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Visualiza Imagens.deps.json
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Visualiza Imagens.runtimeconfig.json
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Visualiza Imagens.runtimeconfig.dev.json
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Visualiza Imagens.exe
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Lista de Nomes.exe
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\MoviTeclas.dll
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Média De 4 Notas.dll
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Relógio.dll
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Visualiza Imagens.dll
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Lista de Nomes.pdb
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Lista de Nomes.exe.config
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\MoviTeclas.pdb
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Média De 4 Notas.pdb
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Relógio.pdb
+C:\Users\Giovanni\source\repos\Criação de Menus\bin\Debug\net5.0-windows\Visualiza Imagens.pdb
+C:\Users\Giovanni\source\repos\Criação de Menus\obj\Debug\net5.0-windows\Criação de Menus.csproj.CopyComplete

@@ -1,0 +1,319 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Giovanni\\source\\repos\\Criação de Menus\\Criação de Menus.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Giovanni\\source\\repos\\Criação de Menus\\Criação de Menus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Giovanni\\source\\repos\\Criação de Menus\\Criação de Menus.csproj",
+        "projectName": "Criação de Menus",
+        "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Criação de Menus\\Criação de Menus.csproj",
+        "packagesPath": "C:\\Users\\Giovanni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Giovanni\\source\\repos\\Criação de Menus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Giovanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Giovanni\\source\\repos\\Lista de Nomes\\Lista de Nomes\\Lista de Nomes.csproj": {
+                "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Lista de Nomes\\Lista de Nomes\\Lista de Nomes.csproj"
+              },
+              "C:\\Users\\Giovanni\\source\\repos\\MoviTeclas\\MoviTeclas.csproj": {
+                "projectPath": "C:\\Users\\Giovanni\\source\\repos\\MoviTeclas\\MoviTeclas.csproj"
+              },
+              "C:\\Users\\Giovanni\\source\\repos\\Média De 4 Notas\\Média De 4 Notas.csproj": {
+                "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Média De 4 Notas\\Média De 4 Notas.csproj"
+              },
+              "C:\\Users\\Giovanni\\source\\repos\\Relógio\\Relógio.csproj": {
+                "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Relógio\\Relógio.csproj"
+              },
+              "C:\\Users\\Giovanni\\source\\repos\\Visualiza Imagens\\Visualiza Imagens.csproj": {
+                "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Visualiza Imagens\\Visualiza Imagens.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Giovanni\\source\\repos\\Lista de Nomes\\Lista de Nomes\\Lista de Nomes.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Giovanni\\source\\repos\\Lista de Nomes\\Lista de Nomes\\Lista de Nomes.csproj",
+        "projectName": "Lista de Nomes",
+        "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Lista de Nomes\\Lista de Nomes\\Lista de Nomes.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Giovanni\\source\\repos\\MoviTeclas\\MoviTeclas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Giovanni\\source\\repos\\MoviTeclas\\MoviTeclas.csproj",
+        "projectName": "MoviTeclas",
+        "projectPath": "C:\\Users\\Giovanni\\source\\repos\\MoviTeclas\\MoviTeclas.csproj",
+        "packagesPath": "C:\\Users\\Giovanni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Giovanni\\source\\repos\\MoviTeclas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Giovanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Giovanni\\source\\repos\\Média De 4 Notas\\Média De 4 Notas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Giovanni\\source\\repos\\Média De 4 Notas\\Média De 4 Notas.csproj",
+        "projectName": "Média De 4 Notas",
+        "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Média De 4 Notas\\Média De 4 Notas.csproj",
+        "packagesPath": "C:\\Users\\Giovanni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Giovanni\\source\\repos\\Média De 4 Notas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Giovanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Giovanni\\source\\repos\\Relógio\\Relógio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Giovanni\\source\\repos\\Relógio\\Relógio.csproj",
+        "projectName": "Relógio",
+        "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Relógio\\Relógio.csproj",
+        "packagesPath": "C:\\Users\\Giovanni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Giovanni\\source\\repos\\Relógio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Giovanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Giovanni\\source\\repos\\Visualiza Imagens\\Visualiza Imagens.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Giovanni\\source\\repos\\Visualiza Imagens\\Visualiza Imagens.csproj",
+        "projectName": "Visualiza Imagens",
+        "projectPath": "C:\\Users\\Giovanni\\source\\repos\\Visualiza Imagens\\Visualiza Imagens.csproj",
+        "packagesPath": "C:\\Users\\Giovanni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Giovanni\\source\\repos\\Visualiza Imagens\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Giovanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

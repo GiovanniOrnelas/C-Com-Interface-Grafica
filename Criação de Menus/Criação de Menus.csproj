@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Criação_de_Menus</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lista de Nomes\Lista de Nomes\Lista de Nomes.csproj" />
+    <ProjectReference Include="..\MoviTeclas\MoviTeclas.csproj" />
+    <ProjectReference Include="..\Média De 4 Notas\Média De 4 Notas.csproj" />
+    <ProjectReference Include="..\Relógio\Relógio.csproj" />
+    <ProjectReference Include="..\Visualiza Imagens\Visualiza Imagens.csproj" />
+  </ItemGroup>
+
+</Project>
